@@ -5,7 +5,7 @@ status = 301
 force = true
 
 [[redirects]]
-from = "/404"
-to = "https://s.cloud.huawei.com/"
+from = "/l/setting?"
+to = "https://s.cloud.huawei.com/l/setting?"
 status = 301
 force = true

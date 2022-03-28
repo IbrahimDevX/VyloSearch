@@ -3,9 +3,3 @@ from = "/search"
 to = "https://s.cloud.huawei.com/search"
 status = 301
 force = true
-
-[[redirects]]
-from = "/l/setting?"
-to = "https://s.cloud.huawei.com/l/setting?"
-status = 301
-force = true

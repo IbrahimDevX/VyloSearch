@@ -3,3 +3,9 @@ from = "/search"
 to = "https://s.cloud.huawei.com/search"
 status = 301
 force = true
+
+[[redirects]]
+from = "/404"
+to = "https://s.cloud.huawei.com/"
+status = 301
+force = true

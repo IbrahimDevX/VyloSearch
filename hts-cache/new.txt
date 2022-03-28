@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+15:18:20	21125/21125	---M--	200	added ('OK')	text/html	date:Mon,%2028%20Mar%202022%2011:18:19%20GMT	https://search-static-dra.dbankcdn.com/	C:/Users/Ibrahim/Videos/Secret/Search_Engine/search-static-dra.dbankcdn.com/index.html	(from )
+15:18:20	681/681	---M--	200	added ('OK')	text/plain	etag:%2261d6b920-2a9%22	https://search-static-dra.dbankcdn.com/robots.txt		(from )
